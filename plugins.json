@@ -3,7 +3,7 @@
   "name": "awesome-ai-plugins",
   "version": "1.0.0",
   "last_updated": "2026-10-20",
-  "total": 929,
+  "total": 930,
   "platforms": [
     "codex",
     "grok",
@@ -10537,6 +10537,20 @@
       "ecosystems": [
         "codex",
         "deepseek-harness"
+      ]
+    },
+    {
+      "name": "hypruse",
+      "url": "https://github.com/IlyasKhallouki/hypruse",
+      "owner": "IlyasKhallouki",
+      "repo": "hypruse",
+      "description": "MCP server: computer use on Hyprland, with workspaces, windows, mouse, keyboard and screenshots on the Wayland desktop, plus a background mode that works in other windows while your cursor and focus stay put",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "platform": "mcp",
+      "installation_url": "https://github.com/IlyasKhallouki/hypruse#readme",
+      "ecosystems": [
+        "mcp"
       ]
     },
     {
